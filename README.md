@@ -14,3 +14,7 @@ Foram utilizadas as bibliotecas:
 <br>Foi necessário salvar o arquivo na extensão .py, para que a biblioteca usada posterior (PYINSTALLER) pudesse ler esse arquivo
 <br>Criei um AMBIENTE VIRTUAL, para poder instalar as bibliotecas necessárias(citadas acima), para que o arquivo final não ficasse pesado (devido bibliotecas desnecessárias, instaladas no meu computador)
 <br>Para a criação do arquivo executável, foi utilizada a biblioteca PYINSTALLER.
+
+
+
+<br>***Obs. Dependendo de como o arquivo PDF foi 'criado', pode haver dificuldades em extrair todas as imagens. 
