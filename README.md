@@ -1,6 +1,8 @@
 # ExtractImagesPDF
  Extract Images From PDF files
 
+PROJETO CRIADO EM PYTHON
+
 Criei esse executável, para poder extrair imagens de arquivos em PDF.
 
 Foram utilizadas as bibliotecas:
