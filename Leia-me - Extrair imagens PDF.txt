@@ -1,0 +1,11 @@
+EXTRAIR IMAGENS DE UM PDF
+
+1º - Abra a pasta "Extrair imagens PDF";
+
+2º - Duplo click no aplicativo "Extrair imagens PDF";
+
+3º - Selecionar o arquivo em PDF;
+
+4º - As imagens extraidas serão salvar em uma nova pasta junto do local do arquivo selecionado.
+
+PRONTO!!!
